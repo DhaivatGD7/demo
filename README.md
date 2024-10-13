@@ -1,4 +1,4 @@
 # demo
 My First Git Repository
 <br>
-Author - Dhaivat Shah
+Author - Dhaivat Shah(NITT)
